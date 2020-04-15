@@ -5,7 +5,7 @@ function som = som_proje(nfeatures, ndim, nepochs, negitimvectors, eta0, etadeca
 %       som = som_proje(2,10,5,10,0.1,0.05,20,0.05,2);
 %       som = som_proje(2,10,10,100,0.1,0.05,20,0.05,2);
 
-%       som = som_proje(3,100,5,100,0.1,0.05,20,0.05,2);
+%       som = som_proje(3,100,5,100,0.1,0.05,20,0.05,2);    Çalışması için gerekli olan kod blogu be carefull
 
 %       % Kullanýlanlar:
 %       %   3   : RGB deðerleri gibi eðitim vektörleri için boyutlar
